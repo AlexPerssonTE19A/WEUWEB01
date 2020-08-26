@@ -1,0 +1,42 @@
+body {
+	background-color:#C0C0C0;
+}
+
+h1 {
+	font-family:arial;
+	font-size:22px;
+	text-align:center;
+	color:blue;
+	}
+
+h3 {
+	font-family:arial;
+	text-align:center;
+	color: blue;
+}
+
+p {
+	text-align:center;
+	font-family:arial;
+	color:blue;
+}
+
+img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+a {
+	text-decoration:none;
+	text-align:center;
+}
+
+.frame {
+	border:1px solid blue;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
